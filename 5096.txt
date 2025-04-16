@@ -1,0 +1,21 @@
+		 Welcome To Ambiance Mini Mall
+ Bill Number:  5096
+ Customer Name:  Kamal
+ Phone Number:  9798742715
+ Customer Email:  kamal@gail.com
+======================================================
+
+ Products			Quantity		Price
+======================================================
+
+ Mufti			5		3500
+ Roadster			1		1500
+ Louis Phillipe			1		2200
+ Realme 13			1		13000
+ Cetaphil			1		800
+
+======================================================
+ Sub Amount:			Rs.21200.00
+ Tax Amount:			Rs.211.60
+ Total Amount:			Rs.21411.60
+======================================================

@@ -1,0 +1,22 @@
+		 Welcome To Ambiance Mini Mall
+ Bill Number:  1323
+ Customer Name:  sudhanshu ranjan chy 
+ Phone Number:  6205632377
+ Customer Email:  srchy2003@gmai.com
+======================================================
+
+ Products			Quantity		Price
+======================================================
+
+ Roadster			1		1500
+ Spykar			1		900
+ Peter England			1		900
+ Ponds			1		30
+ Bajaj Oil			5		200
+ Samsung M21/F21			1		21000
+
+======================================================
+ Sub Amount:			Rs.24530.00
+ Tax Amount:			Rs.35.30
+ Total Amount:			Rs.24565.30
+======================================================

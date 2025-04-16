@@ -1,0 +1,21 @@
+		 Welcome To Ambiance Mini Mall
+ Bill Number:  2299
+ Customer Name:  
+ Phone Number:  
+ Customer Email:  
+======================================================
+
+ Products			Quantity		Price
+======================================================
+
+ Jack&Jones			1		1800
+ Spykar			1		900
+ Realme 12			1		900
+ Fair&Lovely			1		40
+ Fair&Lovely			1		40
+
+======================================================
+ Sub Amount:			Rs.3720.00
+ Tax Amount:			Rs.36.80
+ Total Amount:			Rs.3756.80
+======================================================

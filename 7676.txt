@@ -1,0 +1,24 @@
+		 Welcome To Ambiance Mini Mall
+ Bill Number:  7676
+ Customer Name:  Kamal
+ Phone Number:  9798742715
+ Customer Email:  hjfg@gmail.com
+======================================================
+
+ Products			Quantity		Price
+======================================================
+
+ Spykar			1		900
+ Iphone_15			1		110000
+ Realme 13			1		13000
+ Cetaphil			1		800
+ Cetaphil			1		800
+ Cetaphil			1		800
+ Cetaphil			1		800
+ Cetaphil			1		800
+
+======================================================
+ Sub Amount:			Rs.127900.00
+ Tax Amount:			Rs.1271.00
+ Total Amount:			Rs.129171.00
+======================================================

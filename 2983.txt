@@ -1,0 +1,19 @@
+		 Welcome To Ambiance Mini Mall
+ Bill Number:  2983
+ Customer Name:  Kamal Kumar 
+ Phone Number:  654654165
+ Customer Email:  sajhkjk@gmail.com
+======================================================
+
+ Products			Quantity		Price
+======================================================
+
+ Roadster			1		1500
+ Park Avenue			1		1600
+ Melia			1		300
+
+======================================================
+ Sub Amount:			Rs.3430.00
+ Tax Amount:			Rs.34.00
+ Total Amount:			Rs.3464.00
+======================================================

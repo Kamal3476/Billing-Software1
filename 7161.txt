@@ -1,0 +1,21 @@
+		 Welcome To Ambiance Mini Mall
+ Bill Number:  7161
+ Customer Name:  ghjgf
+ Phone Number:  cchfgh
+ Customer Email:  gjfjgh
+======================================================
+
+ Products			Quantity		Price
+======================================================
+
+ Roadster			1		1500
+ Roadster			1		1500
+ Roadster			1		1500
+ Roadster			1		1500
+ Roadster			1		1500
+
+======================================================
+ Sub Amount:			Rs.9000.00
+ Tax Amount:			Rs.75.00
+ Total Amount:			Rs.9075.00
+======================================================
